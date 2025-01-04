@@ -36,8 +36,8 @@ This project was developed to:
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone [repository-url]
-   cd wikipedia-app-clone
+   git clone https://github.com/tfontinha3/WikipediaClone.git
+   cd WikipediaClone
    ```
 2. Install dependencies:  
    ```bash
